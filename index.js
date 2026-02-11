@@ -8,7 +8,7 @@ const yesBtn = document.querySelector('#yesBtn');
 
 //ESCRIBIR LO QUE PASARA EN CASO DE QUE SÍ
 yesBtn.addEventListener('click', function(){
-    alert('Te amp, iempre supe que aceptarias'); //Puedes mandar los mensajes que quieras
+    alert('Te amO, iempre supe que aceptarias'); //Puedes mandar los mensajes que quieras
     location.href = 'https://www.youtube.com/watch?v=8Gj8RtE3bOI'; //Cambiar el URL en YouTube de la canción que quieras 
 });
 
